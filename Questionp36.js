@@ -47,7 +47,7 @@ class Question {
     this.button.mousePressed(()=>{
       
        this.message.html("Gracias, tu respuesta ha sido enviada");
-      // this.message.position(350, 350);
+       this.message.position(350, 350);
 
       // this.message.html("Gracias, tu respuesta ha sido enviada");
       // this.message.position();
